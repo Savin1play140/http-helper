@@ -1,4 +1,6 @@
 {
     "name": "savin1play140/http-helper",
-    "version": "1.0.0"
+    "description": "Simple http helper for php",
+    "version": "1.0.0",
+    "license": "GPL-3.0-or-later"
 }
