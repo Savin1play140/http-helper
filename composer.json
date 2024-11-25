@@ -3,7 +3,7 @@
     "description": "Simple http helper for php",
     "license": "GPL-3.0-or-later",
     "autoload": {
-        "psr-4": { "": "src/" }
+        "psr-4": { "ru\\": "src/ru/" }
     },
     "require": {
         "php": ">=8.2"
