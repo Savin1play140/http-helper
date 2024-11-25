@@ -1,5 +1,17 @@
 {
     "name": "savin1play140/http-helper",
     "description": "Simple http helper for php",
-    "license": "GPL-3.0-or-later"
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "require": {
+        "php": ">=8.2"
+    },
+    "authors": [
+        {
+            "name": "GameMutPlay14",
+            "role": "Developer"
+        }
+    ]
 }
