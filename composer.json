@@ -6,7 +6,7 @@
         "psr-4": { "ru\\": "src/ru/" }
     },
     "require": {
-        "php": ">=8.2"
+        "php": ">=8.0"
     },
     "authors": [
         {
