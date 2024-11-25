@@ -1,6 +1,6 @@
 This is an HTTP assistant for HTTP generation and parsing.
 
-# Parser example
+# Parsing example
 ```php
 var_dump(ru\gmp\http\HttpParser::parse($http_request));
 ```
